@@ -9,7 +9,7 @@ import whisper
 from tkinter.filedialog import *
 
 
-openai.api_key = "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"
+openai.api_key = "OPENAPI_KEY"
 
 recognizer = sr.Recognizer()
 WAKE_WORD = "friday"
